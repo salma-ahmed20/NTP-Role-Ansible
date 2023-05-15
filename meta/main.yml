@@ -1,0 +1,17 @@
+
+dependencies: []
+
+galaxy_info:
+  author:  Salma Ahmed
+  description: NTP Role.
+  galaxy_tags:
+    - ntp
+  role_name: ntp_config
+
+
+
+
+
+
+
+

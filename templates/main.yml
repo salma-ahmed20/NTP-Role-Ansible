@@ -1,0 +1,8 @@
+- name: be sure ntp is configured
+  template:
+    src: "{{ ntp_src_file }}"
+    dest: "{{ ntp_dest_file  }}" 
+  notify:
+    - restart ntpd
+  tags: ntp
+

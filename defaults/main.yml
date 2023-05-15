@@ -1,0 +1,2 @@
+ntp_src_file: chrony.conf
+ntp-dest_file: /etc/chrony.conf
